@@ -112,14 +112,14 @@ have 2-3 Linux boxes assigned to them.
 #### Example Team
 Here is the team from CCDC 2026:
 
-**Dale**: Customer Service Representative, Linux Operator
-**Darwin**: Linux Operator
-**Eli**: Customer Service Representative, Linux Operator
-**Evan**: Linux Operator
-**Jack**: Team Captain, Linux Operator
-**Jacoby**: Network Administrator
-**Liz**: Inject Manager, Windows Operator
-**Sim**: Domain Administrator
+  * **Dale**: Customer Service Representative, Linux Operator
+  * **Darwin**: Linux Operator
+  * **Eli**: Customer Service Representative, Linux Operator
+  * **Evan**: Linux Operator
+  * **Jack**: Team Captain, Linux Operator
+  * **Jacoby**: Network Administrator
+  * **Liz**: Inject Manager, Windows Operator
+  * **Sim**: Domain Administrator
 
 ## System Hardening
 Commonly known as the first-fifteen or first-hour checklist, hardening
