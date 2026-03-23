@@ -74,7 +74,10 @@ strong at writing. Over the course of the competition, the team will receive a c
 dozen injects, all of which must be completed within a short time frame. The Inject
 Manager is in charge of getting the injects completed in time. While most of the injects
 will likely be done by the inject manager, they are allowed to delegate work to others
-in order to play to the strengths of the team.
+in order to play to the strengths of the team. This individual may have a machine
+assigned to them, but their main focus will be on injects. This means somebody else
+will need to be ready to take over their machine if the Inject Manager gets busy
+with an inject.
 
 [ TODO - add specifics about this role ]
 
@@ -105,6 +108,18 @@ have 2-3 Linux boxes assigned to them.
 
 *Note: The Network Administrator is not technically a Linux Operator*
 
+
+#### Example Team
+Here is the team from CCDC 2026:
+
+**Dale**: Customer Service Representative, Linux Operator
+**Darwin**: Linux Operator
+**Eli**: Customer Service Representative, Linux Operator
+**Evan**: Linux Operator
+**Jack**: Team Captain, Linux Operator
+**Jacoby**: Network Administrator
+**Liz**: Inject Manager, Windows Operator
+**Sim**: Domain Administrator
 
 ## System Hardening
 Commonly known as the first-fifteen or first-hour checklist, hardening
