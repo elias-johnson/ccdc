@@ -112,7 +112,7 @@ have 2-3 Linux boxes assigned to them.
 #### Example Team
 Here is the team from CCDC 2026:
 
-  * **Dale**: Customer Service Representative, Linux Operator
+  * **Dale**: Customer Service Representative, Windows Operator
   * **Darwin**: Linux Operator
   * **Eli**: Customer Service Representative, Linux Operator
   * **Evan**: Linux Operator
