@@ -18,5 +18,9 @@ vulnerabilities and updating any default credentials.
 
 It is worth taking some time to research the specific version of your service.
 Often, your service will be running on an insecure version. Either attempt
-to upgrade your service, or apply a patch to mitigate the vulnerability.
+to upgrade your service, or apply a patch to mitigate the vulnerability. It 
+is important to note that for the first ~2 hours on the first day of the competition, 
+Red Team typically does not actively attack your network, and so if you are down 
+on the scoreboard, it is typically due to misconfiguration on your end. A service can be "running",
+but not functioning correctly. 
 
