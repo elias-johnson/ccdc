@@ -11,3 +11,5 @@ couple of minutes:
  * Currently signed in users
  * SSH keys
  * Website content (to check for defacement)
+ * Check for cronjobs
+ * Check system logs
