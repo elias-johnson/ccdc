@@ -30,8 +30,6 @@ It is also worth noting that this individual does not necessarily have to act
 as the leader of the team. Besides the presentation, the team captain will have
 the same responsibilities as everybody else on the team.
 
-[ TODO - add specifics about the presentation experience here ]
-
 ## Domain Administrator
 The team needs one Domain Administrator. This individual
 must be strong in Windows Active Directory as they are responsible for the configuration
@@ -42,8 +40,6 @@ full-time role, meaning the individual assigned to this role should not be distr
 with other parts of the system. Once they feel comfortable with their configuration, only
 then may they look into other system issues, so long as they are constantly monitoring
 the AD service.
-
-[ TODO - add specifics about this role if applicable ]
 
 ## Network Administrator
 The team needs one Network Administrator. This individual
@@ -66,8 +62,6 @@ assigned to them, but their main focus will be on injects. This means somebody e
 will need to be ready to take over their machine if the Inject Manager gets busy
 with an inject.
 
-[ TODO - add specifics about this role ]
-
 ## Customer Service Representative
 The team should have at least one Customer Service Representative, but there is no limit
 to how many people can have this role on a team. As a CSR, you are responsible for
@@ -86,14 +80,14 @@ what machines will be there until close to the competition (or sometimes you won
 know until the competition). However, there is typically 3-4x more Linux machines
 than Windows. A Windows Operator may have more than one box assigned to them.
 
-> *Note: The Domain Administrator is not technically a Windows Operator*
+> *Note: The Domain Administrator is not a Windows Operator*
 
 ## Linux Operator
 The team should plan on 4-5 Linux operators. A Linux Operator is in charge of
 a Linux box upon arriving at the competition. A Linux Operator will most likely
 have 2-3 Linux boxes assigned to them.
 
-> *Note: The Network Administrator is not technically a Linux Operator*
+> *Note: The Network Administrator is not a Linux Operator*
 
 
 ## Example Team
