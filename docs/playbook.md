@@ -8,4 +8,6 @@ This playbook is comprised of the following sections:
   * [Team Setup](team-setup.md)
   * [System Hardening](system-hardening.md)
   * [System Monitoring](system-monitoring.md)
+  * [Tickets](tickets.md)
   * [Injects](injects.md)
+  * [Useful Tips](useful-tips.md)
