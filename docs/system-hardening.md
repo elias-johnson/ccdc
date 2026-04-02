@@ -4,7 +4,7 @@ is crucial in stopping the Red Team was getting in early. The following checklis
 should be followed as soon as you hop on a machine, in order:
 
   1. Change default passwords (store password in shared location with team)
-    1. When coming up with passwords, do not use passwords such as `gH6d_/llK832%!g.` that take forever to type in
+      1. When coming up with passwords, do not use passwords such as `gH6d_/llK832%!g.` that take forever to type in
   2. Identify necessary services on machine, and shut down all other services
   3. Make backups of important services
   4. Update and Upgrade the system
