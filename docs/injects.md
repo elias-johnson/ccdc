@@ -1,1 +1,2 @@
+# Injects
 Assign a teammember to watching the injects page and discord to triage new injects, determining what machine they pertain to and about how much time and effort is required to complete each. After this, assign a teammember to complete the inject.
