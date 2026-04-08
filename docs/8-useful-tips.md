@@ -8,3 +8,4 @@ Below is a list of random, but *important* tips to consider.
  * Upgrade your systems early because it takes a while and the red team doesn't typically attack right away
  * Reduce attack surface by removing everything and everyone that is not needed for your machine
      * If you are unsure if something is necessary, disable it and monitor your uptime. If nothing changes, you're good to go
+ * On Windows machines, check other drives, such as the `Z` drive for files
