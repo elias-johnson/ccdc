@@ -31,3 +31,10 @@ ban their IP using your firewall. The red teamers are likely all on the same sub
 while the orange team is on their own subnet, so you can identify the red team subnet
 and ban individual IPs from that. Keep in mind that banning the entire red team subnet
 is *not allowed* and may get you disqualified.
+
+Another system hardening technique that we did not have the opportunity to try
+but may be super useful: setting up the firewall to block ICMP requests. This means
+the hacker will see nothing come back after using `nmap` to scan your machine, 
+slowing them down as they don't know all the services that your machine is serving.
+Be careful with this though, as it is possible that the score checker requires 
+successful ICMP pings to score certain services.
